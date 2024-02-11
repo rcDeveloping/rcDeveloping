@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Robson Cruz!  
   
 
-<a href="https://github.com/rcDeveloping" target="_blank">
+<a href="https://github.com/robson-cruz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/robson-robson-306748216/" target="_blank">
@@ -44,7 +44,7 @@ I am a forestry engineer and software engineering student, I have experience in 
 <br/>  
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rcDeveloping&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=robson-cruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br/>
 
 ## Languages and Tools
@@ -69,8 +69,8 @@ I am a forestry engineer and software engineering student, I have experience in 
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcDeveloping&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcDeveloping&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=robson-cruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robson-cruz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ----
