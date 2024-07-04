@@ -23,7 +23,7 @@ I am a forestry engineer and software engineering student, I have experience in 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  -->
   
 
-- 🌱 I’m currently learning .NET.
+- 🌱 I’m currently learning Spring Boot.
   
 
 - ❓ Ask me about anything related to R language and data cleaning.
